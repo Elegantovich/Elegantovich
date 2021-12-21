@@ -5,6 +5,7 @@
 
 table of contents:
 - [x] [Site_Social](https://github.com/Elegantovich/site_social)
+- [x] [Social Blog](https://github.com/Elegantovich/blog_nekid)
 - [x] [Secretary_bot](https://github.com/Elegantovich/Secretary_bot) 
 - [x] [Notification_bot](https://github.com/Elegantovich/Notification_bot)
 - [x] [API_service](https://github.com/Elegantovich/API_service)
