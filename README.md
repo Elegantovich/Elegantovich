@@ -1,7 +1,7 @@
 ### Hi there 👋
 - My name is Maxim
 - located Saint-Petersbug
-- 🌱 I’m currently learning Python, linux
+- 🌱 I’m currently learning Python, linux, Docker
 
 Table of contents:
 - [x] [Site_Social](https://github.com/Elegantovich/site_social)
