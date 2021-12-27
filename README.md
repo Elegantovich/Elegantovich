@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My name is Maxim
+- I'm Maxim
 - located Saint-Petersbug
 - 🌱 I’m currently learning Python, linux, Docker
 
