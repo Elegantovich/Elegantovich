@@ -12,10 +12,13 @@ Table of contents:
 - [x] [Calculator](https://github.com/Elegantovich/calc)
 - [x] [Generanor of random_numbers](https://github.com/Elegantovich/random_numb)
 
-#### Connect with me
-<p align="left">
-<a href="https://www.instagram.com/elegantovich/" target="blank"><img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/1491580635-yumminkysocialmedia26_83102.png" alt="gautamkrishnar" height="50" width="50" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/telegram_logo_icon_147228.png" alt="gautamkrishnar" height="50" width="50" /></a>
+
+
+<div align="center">
+  Connect with <b>me</b>
+  
+ <a href="https://www.instagram.com/elegantovich/" target="blank"><img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/1491580635-yumminkysocialmedia26_83102.png" alt="gautamkrishnar" height="50" width="50" /></a>
+<a href="https://t.me/elegantovich" target="blank"><img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/telegram_logo_icon_147228.png" alt="gautamkrishnar" height="50" width="50" /></a></div>
 
 
 <!--
