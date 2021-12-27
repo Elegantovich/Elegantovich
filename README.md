@@ -14,7 +14,7 @@ Table of contents:
 
 #### Connect with me
 <p align="left">
-<a href="https://www.instagram.com/elegantovich/" target="blank"><img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/1491579602-yumminkysocialmedia36_83067.png" alt="gautamkrishnar" height="50" width="50" /></a>
+<a href="https://www.instagram.com/elegantovich/" target="blank"><img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/1491580635-yumminkysocialmedia26_83102.png" alt="gautamkrishnar" height="50" width="50" /></a>
 <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/telegram_logo_icon_147228.png" alt="gautamkrishnar" height="50" width="50" /></a>
 
 
