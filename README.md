@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I'm Maxim
-- located in Saint-Petersbug
+- live in Saint-Petersbug
 - 🌱 I’m currently learning Python, linux, Docker
 
 ### Tools
