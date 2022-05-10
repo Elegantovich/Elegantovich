@@ -16,6 +16,9 @@
 </div>
 
 ### Table of contents:
+- [x] [NFT Blockchain_API](https://github.com/Elegantovich/NFT_API)
+- [x] [API_Blog](https://github.com/Elegantovich/API_Blog)
+- [x] [API_quiz](https://github.com/Elegantovich/API_quiz)
 - [x] [Site_Social](https://github.com/Elegantovich/site_social)
 - [x] [Social Blog](https://github.com/Elegantovich/blog_nekid)
 - [x] [Secretary_bot](https://github.com/Elegantovich/Secretary_bot) 
