@@ -19,7 +19,12 @@
 <img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/sliks/icon_sql_256_30046.png"  height="50" width="50"/></a>
 <a href="https://www.postgresql.org/docs/">
 <img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/sliks/postgresql_plain_logo_icon_146389.png"  height="50" width="50"/></a>
-</div>
+<a href="https://learning.postman.com/docs/getting-started/introduction/">
+<img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/sliks/postman_macos_bigsur_icon_189815.png"  height="50" width="50"/></a>
+<a href="https://docs.uipath.com/">
+<img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/sliks/brand_uipath_icon_157765.png"  height="50" width="50"/></a> 
+<a href="https://code.visualstudio.com/docs">
+<img align="center" src="https://github.com/Elegantovich/Elegantovich/blob/Elegantovich/static_files/sliks/file_type_vscode_icon_130084.png"  height="50" width="50"/></a></div>
 
 ### Table of contents:
 - [ ] [Foodgram-python/react](https://github.com/Elegantovich/)
