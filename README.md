@@ -29,6 +29,7 @@
 </div>
 
 ### Table of contents:
+- [ ] [stripe_pay_system_API](https://github.com/Elegantovich/stripe_pay_system_API)
 - [ ] [Foodgram-python-react](https://github.com/Elegantovich/foodgram-python-react)
 - [x] [NFT Blockchain_API](https://github.com/Elegantovich/NFT_API)
 - [x] [API_Blog](https://github.com/Elegantovich/API_Blog)
