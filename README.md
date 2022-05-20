@@ -39,8 +39,6 @@
 - [x] [Secretary_bot](https://github.com/Elegantovich/Secretary_bot) 
 - [x] [Notification_bot](https://github.com/Elegantovich/Notification_bot)
 - [x] [API_service](https://github.com/Elegantovich/API_service)
-- [x] [Calculator](https://github.com/Elegantovich/calc)
-- [x] [Generanor of random_numbers](https://github.com/Elegantovich/random_numb)
 
 <div align="center"><b>Connect with me</b>
   
