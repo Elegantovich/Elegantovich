@@ -29,7 +29,7 @@
 </div>
 
 ### Table of contents:
-- [ ] [GSheetsAPI](https://github.com/Elegantovich/GSheetsAPI)
+- [х] [GSheetsAPI](https://github.com/Elegantovich/GSheetsAPI)
 - [x] [Foodgram-python-react](https://github.com/Elegantovich/foodgram-project-react)
 - [x] [NFT Blockchain_API](https://github.com/Elegantovich/NFT_API)
 - [x] [API_Blog](https://github.com/Elegantovich/API_Blog)
