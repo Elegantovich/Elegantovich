@@ -32,7 +32,7 @@
 - [ ] [Social_networkAPI](https://github.com/Elegantovich/social_network)
 - [x] [GSheetsAPI](https://github.com/Elegantovich/GSheetsAPI)
 - [x] [Foodgram-python-react](https://github.com/Elegantovich/foodgram-project-react)
-- [x] [NFT Blockchain_API](https://github.com/Elegantovich/NFT_API)
+- [x] [NFT_Blockchain_API](https://github.com/Elegantovich/NFT_API)
 - [x] [API_Blog](https://github.com/Elegantovich/API_Blog)
 - [x] [API_quiz](https://github.com/Elegantovich/API_quiz)
 - [x] [Site_Social](https://github.com/Elegantovich/site_social)
