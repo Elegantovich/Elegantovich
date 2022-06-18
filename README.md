@@ -29,6 +29,7 @@
 </div>
 
 ### Table of contents:
+- [x] [ShelfMatchApiTest](https://github.com/Elegantovich/ShelfMatchApiTest)
 - [x] [Social_networkAPI](https://github.com/Elegantovich/social_network)
 - [x] [GSheetsAPI](https://github.com/Elegantovich/GSheetsAPI)
 - [x] [Foodgram-python-react](https://github.com/Elegantovich/foodgram-project-react)
