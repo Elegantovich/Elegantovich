@@ -29,7 +29,7 @@
 </div>
 
 ### Table of contents:
-- [ ] [TestYWeather](https://github.com/Elegantovich/TestYWeather)
+- [x] [TestYWeather](https://github.com/Elegantovich/TestYWeather)
 - [x] [ShelfMatchApiTest](https://github.com/Elegantovich/ShelfMatchApiTest)
 - [x] [Social_networkAPI](https://github.com/Elegantovich/social_network)
 - [x] [GSheetsAPI](https://github.com/Elegantovich/GSheetsAPI)
