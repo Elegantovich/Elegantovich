@@ -29,6 +29,7 @@
 </div>
 
 ### Table of contents:
+- [x] [TestYWeatherAPI](https://github.com/Elegantovich/TestYWeatherAPI)
 - [x] [TestYWeather](https://github.com/Elegantovich/TestYWeather)
 - [x] [ShelfMatchApiTest](https://github.com/Elegantovich/ShelfMatchApiTest)
 - [x] [Social_networkAPI](https://github.com/Elegantovich/social_network)
