@@ -29,6 +29,7 @@
 </div>
 
 ### Table of contents:
+- [x] [SmokeTestFoodDelivery](https://github.com/Elegantovich/SmokeTestDostaevsky)
 - [x] [GetMoexData](https://github.com/Elegantovich/GetMoexData)
 - [x] [TestYWeatherAPI](https://github.com/Elegantovich/TestYWeatherAPI)
 - [x] [TestYWeather](https://github.com/Elegantovich/TestYWeather)
